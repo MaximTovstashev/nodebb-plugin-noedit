@@ -1,0 +1,5 @@
+{
+	"id": "nodebb-plugin-quickstart",
+	"url": "https://github.com/NodeBB/nodebb-plugin-quickstart",
+	"templates": "static/templates"
+}

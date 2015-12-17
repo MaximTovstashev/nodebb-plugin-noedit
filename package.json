@@ -1,0 +1,49 @@
+{
+  "author": {
+    "email": "max.kitsch@gmail.com",
+    "name": "Max Kitsch"
+  },
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart/issues"
+  },
+  "dependencies": {},
+  "description": "A starter kit for quickly creating NodeBB plugins",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "cc3b18367d8e8e763786498dca67566bac87f780",
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-quickstart/-/nodebb-plugin-quickstart-0.2.3.tgz"
+  },
+  "gitHead": "d40d65362576a3534966721f358ddd15dc6a54f1",
+  "homepage": "https://github.com/psychobunny/nodebb-plugin-quickstart#readme",
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "quickstart",
+    "shell"
+  ],
+  "license": "MIT",
+  "main": "library.js",
+  "maintainers": [
+    {
+      "name": "psychobunny",
+      "email": "psycho.bunny@hotmail.com"
+    },
+    {
+      "name": "julianlam",
+      "email": "julian@designcreateplay.com"
+    }
+  ],
+  "name": "nodebb-plugin-quickstart",
+  "nbbpm": {
+    "compatibility": "^0.6.0 || ^0.7.0 || ^0.8.0"
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychobunny/nodebb-plugin-quickstart.git"
+  },
+  "scripts": {},
+  "version": "0.2.3"
+}
